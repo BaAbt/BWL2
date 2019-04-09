@@ -1,2 +1,2 @@
 # BWL2
-Übungen, Notizen, und alles sonsige
+Übungen, Notizen, und alles Sonstige
